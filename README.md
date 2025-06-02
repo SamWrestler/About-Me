@@ -1,5 +1,13 @@
 # 💫 About Me:
-🔭 I’m currently working on my university project regarding a Telegram Bot Maker using Laravel and Python. I’m also working on SMC trading and exploring some startup ideas.<br><br>🤝 I’m looking for someone to help me with these startup ideas, which are related to trading support platforms.<br><br>🌱 I’m currently learning SMC trading, along with artificial intelligence and machine learning.<br><br><br><br><br><br><br>
+
+👨‍💻 Senior Software Engineer skilled in designing and implementing scalable architectures (monolith, microservices, serverless)
+🌐 Full-stack Web Developer with expertise in Laravel, Next.js, React, and API design
+🤖 Creator of Telegram & Discord bots using Python, and modern integration patterns
+🧠 AI & Machine Learning Researcher familiar with model development, data pipelines, and algorithm optimization
+🔧 Proficient in RESTful API design, CI/CD pipelines, automated testing, and cloud deployments (AWS, Docker/Kubernetes)
+🚀 Passionate about building high-performance, maintainable systems and mentoring teams to adopt best practices
+
+
 
 
 ## 🌐 Socials:
