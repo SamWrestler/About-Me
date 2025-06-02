@@ -1,11 +1,11 @@
 # 💫 About Me:
 
-👨‍💻 Senior Software Engineer skilled in designing and implementing scalable architectures (monolith, microservices, serverless)
-🌐 Full-stack Web Developer with expertise in Laravel, Next.js, React, and API design
-🤖 Creator of Telegram & Discord bots using Python, and modern integration patterns
-🧠 AI & Machine Learning Researcher familiar with model development, data pipelines, and algorithm optimization
-🔧 Proficient in RESTful API design, CI/CD pipelines, automated testing, and cloud deployments (AWS, Docker/Kubernetes)
-🚀 Passionate about building high-performance, maintainable systems and mentoring teams to adopt best practices
+👨‍💻 Senior Software Engineer skilled in designing and implementing scalable architectures (monolith, microservices, serverless) \n
+🌐 Full-stack Web Developer with expertise in Laravel, Next.js, React, and API design \n
+🤖 Creator of Telegram & Discord bots using Python, and modern integration patterns \n
+🧠 AI & Machine Learning Researcher familiar with model development, data pipelines, and algorithm optimization \n
+🔧 Proficient in RESTful API design, CI/CD pipelines, automated testing, and cloud deployments (AWS, Docker/Kubernetes) \n
+🚀 Passionate about building high-performance, maintainable systems and mentoring teams to adopt best practices \n
 
 
 
